@@ -5,6 +5,8 @@
  * Created on 30 de junio de 2021, 10:20 PM
  */
 
+// Revisión 4. Prueba de sincronización
+
 #include <xc.h>
 #define _XTAL_FREQ 4000000
 #pragma config FOSC = INTIO7
