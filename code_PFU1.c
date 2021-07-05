@@ -76,6 +76,5 @@ void main(void) {
         dec = (num[dec]);
         uni = (num[uni]);
     }
-    
     return;
 }
