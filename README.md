@@ -1,7 +1,7 @@
 # Microcontroladores-MT92
 
-##_Códigos de la clase Microcontroladores MT-92_
+## _Códigos de la clase Microcontroladores MT-92_
 
-*UTVT [Universidad Tecnológica del Valle de Toluca]*
+### UTVT [Universidad Tecnológica del Valle de Toluca]
 
--Super team-
+_Super team_
