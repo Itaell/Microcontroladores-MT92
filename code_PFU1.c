@@ -6,7 +6,7 @@
  */
 
 #include <xc.h>
-# define _XTAL_FREQ 4000000
+#define _XTAL_FREQ 4000000
 #pragma config FOSC = INTIO7
 unsigned char uni = 0;
 unsigned char dec = 0;
